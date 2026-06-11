@@ -6,9 +6,9 @@ export default function Home() {
       <nav className="topo">
         <div className="marca">
           <Image
-            src="/icons8-livro-80.png"
+            src="/logo.png"
             alt="Logo do SmartClass"
-            width={80}
+            width={130}
             height={80}
           />
           <div>
