@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+SmartClass.
 
-## Getting Started
 
-First, run the development server:
+O SmartClass é uma plataforma de ensino online desenvolvida para facilitar o acesso a cursos, treinamentos e certificados digitais. O sistema oferece uma interface moderna e intuitiva, permitindo que os usuários encontrem conteúdos educacionais, acompanhem seu progresso e gerenciem suas informações pessoais de forma simples e eficiente.
+Objetivo do Projeto
+Desenvolver uma plataforma educacional capaz de conectar estudantes a conteúdos de qualidade, proporcionando uma experiência de aprendizagem organizada, acessível e moderna.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Funcionalidades:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Usuário:
+Realizar login no sistema.
+Visualizar cursos disponíveis.
+Pesquisar cursos por categoria ou nome.
+Acompanhar o progresso dos cursos.
+Editar informações do perfil.
+Visualizar certificados obtidos.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Sistema:
+Gerenciar informações dos usuários.
+Organizar cursos por categorias.
+Armazenar certificados digitais.
+Garantir segurança dos dados.
 
-## Learn More
+ Tecnologias Utilizadas:
 
-To learn more about Next.js, take a look at the following resources:
+Front-end:
+Next.js
+Design
+Figma
+Controle de Versão
+Git
+GitHub
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Equipe de Desenvolvimento
+Luan
+Marco
+Hugo
+Pietro
+Conclusão
+O SmartClass foi idealizado para oferecer uma plataforma de ensino online moderna, organizada e acessível. O projeto busca facilitar o aprendizado digital por meio de uma interface intuitiva e recursos que auxiliam os usuários durante toda a sua jornada educacional.
