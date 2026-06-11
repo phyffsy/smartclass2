@@ -109,6 +109,7 @@ http://localhost:3000
 | Marco      |
 | Hugo       |
 | Pietro     |
+| Victor    |
 
 ---
 
