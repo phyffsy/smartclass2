@@ -50,7 +50,6 @@ Desenvolver uma plataforma educacional capaz de conectar estudantes a conteúdos
 
 ### Front-end
 
-* React
 * Next.js
 * JavaScript
 * HTML5
